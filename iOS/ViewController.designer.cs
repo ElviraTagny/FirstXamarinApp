@@ -16,10 +16,6 @@ namespace MyFirstXamarinApp.iOS
         [Outlet]
         UIKit.UIButton Button { get; set; }
 
-        [Action ("Button_TouchUpInside:")]
-        [GeneratedCode ("iOS Designer", "1.0")]
-        partial void Button_TouchUpInside (UIKit.UIButton sender);
-
         void ReleaseDesignerOutlets ()
         {
             if (Button != null) {

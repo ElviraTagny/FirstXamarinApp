@@ -23,9 +23,7 @@
                                     <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <color key="titleColor" colorSpace="calibratedRGB" red="0.9882352941176471" green="0.41568627450980394" blue="0.17254901960784313" alpha="1"/>
                                 </state>
-                                <connections>
-                                    <action selector="Button_TouchUpInside:" destination="BYZ-38-t0r" id="206" eventType="touchUpInside"/>
-                                </connections>
+                                <connections/>
                             </button>
                         </subviews>
                         <color key="backgroundColor" customColorSpace="sRGB" colorSpace="calibratedRGB" red="1" green="1" blue="0.69803921568627447" alpha="1"/>
